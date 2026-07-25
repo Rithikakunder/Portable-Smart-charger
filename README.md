@@ -26,6 +26,14 @@ The system combines multiple power sources to provide different output voltages 
 - Improved power distribution
 - Reduced dependence on a single power source
 
+
+## Challenges Faced
+- Maintaining a stable output voltage while using multiple power sources.
+- Managing heat generated during operation.
+- Ensuring proper power distribution for safe and efficient charging.
+- Building a reliable hardware prototype.
+
+
 ## Future Scope
 - Add IoT-based remote monitoring
 - Include battery backup
