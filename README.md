@@ -43,6 +43,7 @@ The system combines multiple power sources to provide different output voltages 
 - Implement fast charging protocols
 - Design a PCB for a compact product
 - Improve protection and safety features
+- improved thermal management
 
 ## Team Members
 - Rithika
