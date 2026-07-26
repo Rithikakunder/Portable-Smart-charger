@@ -38,6 +38,7 @@ The system combines multiple power sources to provide different output voltages 
 
 ## My Contributions
 - Hardware implementation
+- Soldering
 - Circuit assembly
 - Voltage testing
 - Documentation
