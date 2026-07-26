@@ -11,7 +11,6 @@ This project is a portable smart charger that combines multiple power sources to
 - Supports solar energy integration
 
 ## Components Used
-- ESP32
 - Current and voltage sensors
 - USB output ports
 - Solar panel
