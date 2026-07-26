@@ -12,10 +12,14 @@ This project is a portable smart charger that combines multiple power sources to
 
 ## Components Used
 - Current and voltage sensors
-- USB output ports
+- 100 W USB-C PD adapter
+- 65 W USB-C PD adapter
 - Solar panel
 - 100W and 65W power supplies
 - Standard adapter
+- perfboard
+- MOSFET
+- passive components
 
 ## Working Principle
 The system combines multiple power sources to provide different output voltages for charging multiple devices. It manages power efficiently while reducing unnecessary power loss.
