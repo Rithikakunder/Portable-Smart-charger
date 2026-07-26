@@ -36,6 +36,16 @@ The system combines multiple power sources to provide different output voltages 
 - Ensuring proper power distribution for safe and efficient charging.
 - Building a reliable hardware prototype.
 
+## My Contributions
+- Hardware implementation
+- Circuit assembly
+- Voltage testing
+- Documentation
+- GitHub repository management
+
+## Project status
+- Current Stage: Hardware Prototype Completed
+
 
 ## Future Scope
 - Add IoT-based remote monitoring
