@@ -56,6 +56,9 @@ The system combines multiple power sources to provide different output voltages 
 - Improve protection and safety features
 - improved thermal management
 
+ ## Author 
+ Rithika
+
 ## Team Members
 - Rithika
 - Amshula Shetty
